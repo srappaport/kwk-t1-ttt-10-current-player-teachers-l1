@@ -4,5 +4,5 @@ def turn_count(board)
     puts move
     count += 1
   end
-  
+
 end
